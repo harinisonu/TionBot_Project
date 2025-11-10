@@ -12,9 +12,9 @@
 //=========================
 // 🔹 Blynk Credentials
 //=========================
-#define BLYNK_TEMPLATE_ID "TMPL39aQPt60Q"
+#define BLYNK_TEMPLATE_ID "xx"
 #define BLYNK_TEMPLATE_NAME "Voice Tion"
-#define BLYNK_AUTH_TOKEN "cKOd4bYWuvpe5yIhmHku3nWWbN8g7Hj0"
+#define BLYNK_AUTH_TOKEN "zzz"
 
 //=========================
 // 🔹 WiFi Credentials

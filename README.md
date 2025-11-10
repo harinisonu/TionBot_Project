@@ -257,16 +257,6 @@ rtc.adjust(DateTime(2025, 11, 10, 22, 30, 0)); // YYYY, MM, DD, HH, MM, SS
 
 ***
 
-## **🤝 Contributing**
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature/YourFeature`
-3. Commit changes: `git commit -am 'Add YourFeature'`
-4. Push to branch: `git push origin feature/YourFeature`
-5. Submit Pull Request
-
 ### **Code Style**
 - Use Arduino-style function naming (camelCase)
 - Comment complex logic sections
@@ -275,17 +265,11 @@ Contributions are welcome! Please follow these guidelines:
 
 ***
 
-## **📄 License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-***
-
 ## **👤 Author**
 
 **HARINI B R**
 - GitHub: [@harinisonu](https://github.com/harinisonu)
-- Project Link: [https://github.com/harinisonu/TionBot_Project]
+- Project Link: [https://github.com/harinisonu/TionBot_Project](https://github.com/harinisonu/TionBot_Project)
 
 ***
 

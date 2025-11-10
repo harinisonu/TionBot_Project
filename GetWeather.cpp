@@ -6,7 +6,7 @@
 // Example API URL (replace CITY and APIKEY):
 // http://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=YOUR_API_KEY&units=metric
 const char* city = "Chennai";
-const char* apiKey = "1c6f5b8720ec2fffdaebac6c8cdaecc3";
+const char* apiKey = "xxxx";
 
 //=========================
 // 🔹 Global variables
